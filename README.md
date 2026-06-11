@@ -1,7 +1,6 @@
-# Hi, I'm Jie Shen 👋
+# Hi, I'm Jie Shen 
 
-🎓 Mathematics & Statistics @ University of Toronto Mississauga  
-💻 Minor in Computer Science
+🎓 Mathematics, Statistics & Computer Science @ University of Toronto Mississauga  
 
 ## Interests
 
