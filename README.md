@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi, I'm Jie Shen 👋
+
+🎓 Mathematics & Statistics @ University of Toronto Mississauga  
+💻 Minor in Computer Science
+
+## Interests
+
+- Software Engineering
+- Data Science
+- Machine Learning
+
+## Technologies
+
+Python • Java • SQL • FastAPI • scikit-learn • Git • HTML/CSS • JavaScript
+
+## Links
+
+🌐 Website: https://shenjie9.github.io
+
+💼 LinkedIn: https://linkedin.com/in/jie-shen-0b37a9277
+
+📧 jie22shen@gmail.com
 
 <!--
 **shenjie9/shenjie9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
