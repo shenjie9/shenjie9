@@ -10,7 +10,7 @@
 
 ## Technologies
 
-Python • Java • SQL • FastAPI • scikit-learn • Pandas • NumPy • Git • HTML/CSS • JavaScript
+Python • Java • SQL • FastAPI • Machine Learning • NLP • Data Analysis • NumPy • Pandas • Git/GitHub • HTML/CSS • JavaScript
 
 ## Links
 
